@@ -1,0 +1,16 @@
+{
+  "name": "jeisonfigueroa",
+  "version": "0.1.0",
+  "description": "Personal reusable AI workflows by Jeison Figueroa",
+  "author": {
+    "name": "Jeison Figueroa"
+  },
+  "repository": "https://github.com/jeisonfigueroa-jama/jeisonfigueroa-skills",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Jeison Figueroa's Skills",
+    "shortDescription": "Personal reusable AI workflows.",
+    "developerName": "Jeison Figueroa",
+    "category": "Productivity"
+  }
+}

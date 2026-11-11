@@ -1,0 +1,20 @@
+{
+  "name": "jeisonfigueroa-skills",
+  "interface": {
+    "displayName": "Jeison Figueroa's Skills"
+  },
+  "plugins": [
+    {
+      "name": "jeisonfigueroa",
+      "source": {
+        "source": "local",
+        "path": "./plugins/jeisonfigueroa"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
